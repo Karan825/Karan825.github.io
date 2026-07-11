@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://karan825.github.io/sitemap.xml
+Host: https://karan825.github.io
